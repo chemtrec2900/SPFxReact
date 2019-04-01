@@ -8,7 +8,7 @@ Projects	Managed Metadata (You need to have a managed data Country with terms of
 Department	Choice	(Human Resource,Finance,Employee) - (When Employee is selected ExternalHiring is turned off by default)
 ExternalHiring	Yes/No	
 ReportingManager	Person or Group	
-![alt text](https://github.com/tesfayegari/SPFxReact/blob/master/Output.gif)
+![alt text](https://raw.githubusercontent.com/chemtrec2900/SPFxReact/master/Output.gif)
 
 ### Building the code
 
