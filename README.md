@@ -8,7 +8,7 @@ Projects	Managed Metadata (You need to have a managed data Country with terms of
 Department	Choice	(Human Resource,Finance,Employee) - (When Employee is selected ExternalHiring is turned off by default)
 ExternalHiring	Yes/No	
 ReportingManager	Person or Group	
-
+![alt text](https://github.com/tesfayegari/SPFxReact/blob/master/Output.gif)
 
 ### Building the code
 
@@ -26,5 +26,6 @@ This package produces the following:
 * deploy/* - all resources which should be uploaded to a CDN.
 
 ### Build options
+
 
 
