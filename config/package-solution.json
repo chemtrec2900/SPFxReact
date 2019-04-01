@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-react-client-side-solution",
+    "id": "46c84ca5-4330-45ea-9470-7001511ea5d4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-react.sppkg"
+  }
+}
